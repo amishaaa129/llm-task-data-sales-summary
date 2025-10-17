@@ -1,1 +1,1 @@
-# Sales Total AppThis simple web application fetches `sales.csv`, parses it, sums the 'Amount' column, and displays the total on the page.
+# Sales Total AppThis single-page application fetches `sales.csv`, calculates the sum of the 'Amount' column, and displays the total on the page.
