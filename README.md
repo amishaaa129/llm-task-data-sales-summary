@@ -1,1 +1,4 @@
-# Final Sales Report ApplicationThis single-page web application displays a 'Final Sales Report' title, a current total, and a button to reset that total to '0.00'.## Features- Displays 'Final Sales Report' as the main title.- Shows a dynamically updatable total sales amount.- A 'Reset Total' button to clear the displayed sum and set it back to 0.00.## How to UseOpen `index.html` in your web browser. The application will load, displaying the main title and the current total. Click the 'Reset Total' button to instantly clear the displayed sum to 0.00.
+# Final Sales Report Application
+
+This is a simple single-page web application displaying a "Final Sales Report".
+It includes a total sum display and a button to reset the displayed total to 0.00.
