@@ -1,0 +1,1 @@
+# Sales Total AppThis simple web application fetches `sales.csv`, parses it, sums the 'Amount' column, and displays the total on the page.
