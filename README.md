@@ -1,1 +1,1 @@
-# Sales Total AppThis single-page application fetches `sales.csv`, calculates the sum of the 'Amount' column, and displays the total on the page.
+# Sales Total AppThis simple web application fetches `sales.csv`, calculates the sum of the 'Amount' column, and displays the total on the page.## How to Run1. Ensure `index.html` and `sales.csv` are in the same directory.2. Open `index.html` in your web browser.
